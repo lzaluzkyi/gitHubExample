@@ -12,12 +12,6 @@ public class Main {
         hashSet.add(new Car(2002));
         hashSet.add(new Car(2020));
         hashSet.add(new Car(2002));
-        hashSet.add(new Car(1994));
-        hashSet.add(new Car(2002));
-        hashSet.add(new Car(2020));
-        hashSet.add(new Car(2002));
-        hashSet.add(new Car(1994));
-        hashSet.add(new Car(2002));
         hashSet.add(new Car(2020));
         hashSet.add(new Car(2002));
 
