@@ -6,6 +6,4 @@ public class TestClass {
     private int a;
     String b = "a";
 
-
-
 }
